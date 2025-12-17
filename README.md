@@ -1,8 +1,12 @@
 Objectives of the Project:
 1.To understand how Naive Bayes classification works
+
 2.To apply text preprocessing techniques in Python
+
 3.To build a simple machine learning model for spam detection
+
 4.To design a user-friendly GUI using wxPython
+
 5.To allow the model to learn from user feedback
 
 Technologies Used
