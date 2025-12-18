@@ -10,24 +10,41 @@ Objectives of the Project:
 5.To allow the model to learn from user feedback
 
 Technologies Used
+
 1.Python
+
 2.wxPython (for GUI)
+
 3.Naive Bayes Algorithm
+
 4.Regular Expressions (re module)
+
 5.CSV file handling
+
 6.Basic Natural Language Processing concepts
 
 How the System Works
+
 1.The user enters a message into the GUI text box.
+
 2.The message is cleaned by:
+
 -Converting text to lowercase
+
 -Removing special characters and numbers
+
 -Removing unnecessary words
+
 3.The processed text is sent to the Naive Bayes classifier.
+
 4.The model calculates probabilities for:
+
 -Spam
+
 -Ham
+
 5.The class with the higher probability is selected as the result.
+
 6.The output is displayed on the GUI.
 
 Graphical User Interface (GUI)
